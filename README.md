@@ -17,6 +17,11 @@ El dump ha sido creado con la herramienta `wget` y los links convertidos automá
 * http://votarem.xyz/on-votar/
 * http://catalunyalliure.xyz/on-votar/
 * http://independencia.xyz/on-votar/
+* http://referendum.cat.evildraye.scot/on-votar/
+* https://wikileaks.org/mirrors/catref/on-votar/
+* https://aureliuskane.github.io/votarem/on-votar/
+* https://aureliuskane.github.io/ref1oct/on-votar/
+* http://davidcastella.com/votarem/on-votar/
 
 ---
 
